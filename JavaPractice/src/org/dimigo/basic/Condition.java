@@ -6,7 +6,7 @@ public class Condition {
 		
 		String cartype = "고속버스";
 		int distance = 10;
-		int passmoney;
+		int passmoney = 0;
 		int extramoney = 0;
 		int totalmoney = 0;
 		switch (cartype) {
