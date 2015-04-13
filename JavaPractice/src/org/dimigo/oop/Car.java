@@ -39,7 +39,7 @@ public class Car {
 	public void setColor(String newColor) {
 		color = newColor;
 	}
-	
+
 	public void setMaxSpeed(int newMaxSpeed) {
 		maxSpeed = newMaxSpeed;
 	}
