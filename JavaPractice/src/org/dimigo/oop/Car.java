@@ -23,7 +23,7 @@ public class Car {
 	public int getMaxSpeed() {
 		return maxSpeed;
 	}
-	
+
 	public int getPrice() {
 		return price;
 	}
