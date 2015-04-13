@@ -2,7 +2,7 @@ package org.dimigo.basic;
 
 public class Operator {
 
-	public static void main(String[] args) {
+	 public static void main(String[] args) {
 		int a1 = 9, b1 = 10, a2 = 9;
 		double h1 = 5.8, h2 = 5.4;
 		double w1 = ((a1 + b1) * h1) / 2;
