@@ -6,7 +6,7 @@ public class CarTest {
 		Car car = new Car();
 		Car car2 = new Car();
 		Car car3 = new Car();
-		
+	
 		car.setCompany("현대자동차");
 		car.setModel("제네시스");
 		car.setColor("검정색");

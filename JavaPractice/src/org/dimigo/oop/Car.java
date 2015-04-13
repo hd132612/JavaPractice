@@ -35,7 +35,7 @@ public class Car {
 	public void setModel(String newModel) {
 		model = newModel;
 	}
-	
+
 	public void setColor(String newColor) {
 		color = newColor;
 	}
