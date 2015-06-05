@@ -4,7 +4,7 @@ public class Snack {
 	private String name;
 	private String company;
 	private int price;
-	private int number;
+	private int number; 
 	
 	public Snack() {
 		
